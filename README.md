@@ -7,6 +7,15 @@ My fields of interest are Machine Learning and Data Visualization. Currently, I'
 
 I am thoroughly competent in R and Python. Besides those two, I have also accumulated an understanding of some new technologies by watching YouTube videos, and reading articles, as well as acquainted myself with basic Informative Design and Web Building. I am always open to opportunities to further expand my horizon and experience. At this time, I am looking for an internship in hopes of developing my expertise.
 
+## Badges
+
+<b>My GitHub Stats</b>
+<p style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=tnmquann&show_icons=true&locale=en" alt="tnmquann" style="height: 150px;" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tnmquann&show_icons=true&locale=en&layout=compact" alt="tnmquann" style="height: 150px;" />
+</p>
+
 
 ## Connect with me at
 🟥 [E-mail][E-mail] **|**
