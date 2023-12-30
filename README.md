@@ -9,23 +9,22 @@ I am thoroughly competent in R and Python. Besides those two, I have also accumu
 
 ## Badges
 
-<b>My GitHub Stats</b>
 <p style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tnmquann&show_icons=true&locale=en" alt="tnmquann" style="height: 150px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tnmquann&show_icons=true&locale=en" alt="tnmquann" style="height: 140px;" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tnmquann&show_icons=true&locale=en&layout=compact" alt="tnmquann" style="height: 150px;" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=tnmquann&theme=dark" alt="tnmquann" style="height: 140px;" />
+ &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tnmquann&show_icons=true&locale=en&layout=compact" alt="tnmquann" style="height: 140px;" />
+ &nbsp;&nbsp;
 </p>
-
 
 ## Connect with me at
 🟥 [E-mail][E-mail] **|**
-🟦 [Facebook][Facebook] **|**
 🟩 [LinkedIn][LinkedIn] **|**
 🟫 [Twitter][Twitter] **|**
 🟨 [CV][CV]
 
 [CV]: https://raw.githubusercontent.com/tnmquann/tnmquann/master/CV_QuanTonNgocMinh_ENG.pdf
-[Facebook]: https://www.facebook.com/quantonny1112
 [Twitter]: https://twitter.com/quantonny1112
 [LinkedIn]: https://www.linkedin.com/in/tnmquann/
 [E-mail]: mailto:minhquan.tdn.ct1619@gmail.com
