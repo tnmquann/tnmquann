@@ -12,10 +12,7 @@ I am thoroughly competent in R and Python. Besides those two, I have also accumu
 <p style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=tnmquann&show_icons=true&locale=en" alt="tnmquann" style="height: 140px;" />
   &nbsp;&nbsp;
-  <img src="https://leetcode-stats-six.vercel.app/api?username=tnmquann&theme=dark" alt="tnmquann" style="height: 140px;" />
- &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tnmquann&show_icons=true&locale=en&layout=compact" alt="tnmquann" style="height: 140px;" />
- &nbsp;&nbsp;
+ <img src="https://leetcode-stats-six.vercel.app/api?username=tnmquann&theme=dark" alt="tnmquann" style="height: 140px;" /> &nbsp;&nbsp;
 </p>
 
 ## Connect with me at
