@@ -20,10 +20,10 @@ I graduated in Biotechnology (Medicine specialization) from VNUHCM – Universit
 ## Connect with me at
 🟥 [E-mail][E-mail] **|**
 🟩 [LinkedIn][LinkedIn] **|**
-🟫 [Twitter][Twitter] **|**
+🟫 [X][X] **|**
 🟨 [CV][CV]
 
 [CV]: https://raw.githubusercontent.com/tnmquann/tnmquann/master/CV_QuanTonNgocMinh_ENG.pdf
-[Twitter]: https://twitter.com/quantonny1112
+[X]: https://x.com/quanntnm
 [LinkedIn]: https://www.linkedin.com/in/tnmquann/
 [E-mail]: mailto:minhquan.tdn.ct1619@gmail.com
