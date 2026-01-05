@@ -1,17 +1,20 @@
  
 <h1>Hi 👋, I’m Tonny</h1>
 
-I am currently a final year student at Vietnam National University - Ho Chi Minh City University of Science. Major in Biotechnology in Medicine.
+I’m a Research Assistant at the Oxford University Clinical Research Unit (OUCRU), where I work with the Molecular Epidemiology group on microbiome and metagenomics data. I enjoy building and maintaining bioinformatics pipelines using Python, R, and Nextflow, and turning complex biological data into clear analyses, visualizations, and reports.
 
-My fields of interest are Machine Learning and Data Visualization. Currently, I'm focusing on the application of Machine Learning on biological data.
+I graduated in Biotechnology (Medicine specialization) from VNUHCM – University of Science. With a strong interest in bioinformatics and genomics, I’m passionate about applying data-driven approaches to better understand biological systems and, ultimately, contribute to improved healthcare outcomes.
 
-I am thoroughly competent in R and Python. Besides those two, I have also accumulated an understanding of some new technologies by watching YouTube videos, and reading articles, as well as acquainted myself with basic Informative Design and Web Building. I am always open to opportunities to further expand my horizon and experience. At this time, I am looking for an internship in hopes of developing my expertise.
 
 ## Badges
 
-<p style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tnmquann&show_icons=true&locale=en" alt="tnmquann" style="height: 140px;" />
-  &nbsp;&nbsp;
+<p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=tnmquann&color=grey&base=1111">
+</p>
+
+<p align="center">
+    <a href="https://leetcode.com/tnmquann/"><img width="48%" src="https://leetcode.card.workers.dev/tnmquann?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    <a href="https://github.com/drknzz"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnmquann&theme=dark&layout=compact&langs_count=6&bg_color=101010&hide_title=true"></a>
 </p>
 
 ## Connect with me at
